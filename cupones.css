@@ -323,6 +323,15 @@ hr {
 
 /* List style 1 */
 
+.jzmzob {
+    display: grid;
+    grid-gap: 15px;
+		column-gap: 15px;
+		align-content: space-around;
+    -webkit-box-pack: center;
+		justify-content: center;
+}
+
 ul.style1 {
 	margin: 0px;
 	padding: 0px;
