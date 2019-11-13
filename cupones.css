@@ -9,7 +9,7 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	font-weight: 400;
-	color: rgba(0,0,0,.8);
+	color: rgb(254, 252, 255);
 }
 
 h1, h2, h3 {
@@ -37,7 +37,7 @@ strong {
 }
 
 a {
-	color: rgba(0,0,0,.8);
+	color: rgb(254, 252, 255);
 }
 
 a:hover {
@@ -144,7 +144,7 @@ hr {
 }
 
 #logo h1 {
-	background: #ff304d;
+	background: #c6a98a;
 	letter-spacing: -1px;
 	text-align: center;
 	text-transform: lowercase;
@@ -221,7 +221,7 @@ hr {
 
 	#page {
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 1em 0em;
 		color: rgb(254, 252, 255);
 		text-align: center;
 	}
@@ -238,7 +238,7 @@ hr {
 
 	#page .title h2
 	{
-		font-size: 1.5em;
+		font-size: 1em;
 		font-weight: 400;
 		color: rgba(255,255,255,0.8);
 	}
@@ -493,7 +493,7 @@ ul.style3 .first {
 	.column3
 	{
 		float: left;
-		margin-right: 24px;
+		margin-right: 110px;
 	}
 
 	.column4
@@ -553,7 +553,7 @@ ul.style3 .first {
 
 	ul.contact
 	{
-		background: #ff304d;
+		background: #c6a98a;
 		margin: 0;
 		padding: 0.5em 1em;
 		border-radius: 30px;

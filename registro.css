@@ -144,7 +144,7 @@ hr {
 }
 
 #logo h1 {
-	background: #ff304d;
+	background: #33bf78;
 	letter-spacing: -1px;
 	text-align: center;
 	text-transform: lowercase;
@@ -544,7 +544,7 @@ ul.style3 .first {
 
 	ul.contact
 	{
-		background: #ff304d;
+		background: #33bf78;
 		margin: 0;
 		padding: 0.5em 1em;
 		border-radius: 30px;
@@ -584,8 +584,8 @@ ul.style3 .first {
 	#welcome-wrapper
 	{
 		padding: 0em 0em 0em 0em;
-		background: #e24c1f;
-		font-size: 1.2em;
+		background: #4f5179;
+		font-size: 1.4em;
 		color: rgba(255,255,255,0.7);
 	}
 

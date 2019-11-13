@@ -97,7 +97,7 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-	background: #0d0d0d;
+	background: #b36021;
 	margin: 0px 20px;
 }
 
@@ -144,7 +144,7 @@ hr {
 }
 
 #logo h1 {
-	background: #ff304d;
+	background: #eb9655;
 	letter-spacing: -1px;
 	text-align: center;
 	text-transform: lowercase;
@@ -528,7 +528,7 @@ ul.style3 .first {
 		display: inline-block;
 		margin-top: 2em;
 		padding: 0em 2em;
-		background: #ff304d;
+		background: #101010;
 		letter-spacing: 0.10em;
 		line-height: 3em;
 		text-decoration: none;
@@ -544,7 +544,7 @@ ul.style3 .first {
 
 	ul.contact
 	{
-		background: #ff304d;
+		background: #eb9655;
 		margin: 0;
 		padding: 0.5em 1em;
 		border-radius: 30px;
