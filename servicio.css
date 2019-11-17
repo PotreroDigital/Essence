@@ -17,7 +17,7 @@ h1, h2, h3 {
 	padding: 0;
 	text-transform: uppercase;
 	font-weight: 300;
-	color: #2D2D2D;
+	color: #2d2d2d;
 }
 
 h2 {
@@ -37,7 +37,7 @@ strong {
 }
 
 a {
-	color: rgba(0,0,0,.8);
+	color: #2d2d2d;
 }
 
 a:hover {
@@ -97,7 +97,7 @@ hr {
 /** WRAPPER */
 
 #wrapper {
-	background: #b36021;
+	background: #99d1e0;
 	margin: 0px 20px;
 }
 
@@ -144,7 +144,7 @@ hr {
 }
 
 #logo h1 {
-	background: #eb9655;
+	background: #99d1e0;
 	letter-spacing: -1px;
 	text-align: center;
 	text-transform: lowercase;
@@ -169,7 +169,7 @@ hr {
 	border: none;
 	background: none;
 	text-decoration: none;
-	color: #FFF;
+	color: #222222;
 }
 
 /** MENU */
@@ -221,8 +221,8 @@ hr {
 
 	#page {
 		overflow: hidden;
-		padding: 5em 0em;
-		color: rgb(254, 252, 255);
+		padding: 2em 0em;
+		color: #2d2d2d;
 		text-align: center;
 	}
 
@@ -233,14 +233,14 @@ hr {
 
 	#page .title
 	{
-		margin-bottom: 2em;
+		margin-bottom: 0.5em;
 	}
 
 	#page .title h2
 	{
 		font-size: 1.5em;
 		font-weight: 400;
-		color: rgba(255,255,255,0.8);
+		color: #2d2d2d;
 	}
 
 	#page .title .byline
@@ -248,7 +248,7 @@ hr {
 		display: block;
 		padding-bottom: 1em;
 		font-size: 0.90em;
-		color: rgba(255,255,255,0.4);
+		color: #2d2d2d;
 	}
 
 /** CONTENT */
@@ -544,7 +544,7 @@ ul.style3 .first {
 
 	ul.contact
 	{
-		background: #eb9655;
+		background: #99d1e0;
 		margin: 0;
 		padding: 0.5em 1em;
 		border-radius: 30px;
@@ -577,7 +577,7 @@ ul.style3 .first {
 		height: 40px;
 		line-height: 40px;
 		text-align: center;
-		color: rgba(255,255,255,1);
+		color: #222222;
 	}
 
 
