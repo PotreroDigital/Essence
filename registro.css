@@ -599,3 +599,17 @@ ul.style3 .first {
 	{
 		color: rgba(255,255,255,1);
 	}
+
+	input {
+		width: 40%;
+		padding: 5px 5px;
+		margin: 5px 0;
+		box-sizing: border-box;
+	}
+
+	select {
+		width: 33.5%;
+		padding: 5px 5px;
+		margin: 5px 0;
+		box-sizing: border-box;
+	}

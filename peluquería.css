@@ -1,0 +1,13 @@
+input {
+  width: 40%;
+  padding: 5px 5px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+select {
+  width: 36%;
+  padding: 5px 5px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
